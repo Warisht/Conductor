@@ -1,0 +1,22 @@
+<suite name="testing" >
+
+<listeners>
+ 
+ <listener class-name="utility.Listener"></listener>
+ 
+ </listeners>
+
+
+ 
+ 
+ <test name="login" >
+
+ <classes> <class name="automationFramework.LoginPage" />
+ 
+ </classes>
+
+ </test>
+
+
+
+ </suite>
